@@ -1,0 +1,15 @@
+
+======================
+   SALES REPORT
+======================
+
+Total Sales: 70429
+
+Best Selling Product: Pencil
+
+Average Units Sold: 100.9375
+Highest Units Sold: 175
+Lowest Units Sold: 40
+
+----------------------
+Report Generated 
